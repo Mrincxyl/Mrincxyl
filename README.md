@@ -27,7 +27,7 @@
 
 ### 👨‍💻 About Me
 
-Hi, I'm **Raihan Ali** — a passionate **Computer Science & Engineering (Data Science)** student at **Brainware University**.
+Hi, I'm **SK Raihan Ali** — a passionate **Computer Science & Engineering (Data Science)** student at **Brainware University**.
 
 I love turning ideas into real applications using **Python**, **Machine Learning**, and modern web technologies. My focus is on building practical, useful projects that solve real problems.
 
