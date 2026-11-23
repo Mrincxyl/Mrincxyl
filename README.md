@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Save your banner image as assets/banner.jpeg and upload it to this repository -->
-<img src="assets/raihan-banner-ivory.png" width="100%" alt="SK Raihan Ali - Python Developer | Data Science | Machine Learning"/>
+<img src="assets/banner1.png" width="100%" alt="SK Raihan Ali - Python Developer | Data Science | Machine Learning"/>
 
 <br/>
 
